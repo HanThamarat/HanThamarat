@@ -36,7 +36,6 @@ MobileApp Devolopment
 
 ### MyStats
 
-<center>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HanThamarat&theme=dark&background=000000)](https://git.io/streak-stats) <br><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanThamarat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</center>
