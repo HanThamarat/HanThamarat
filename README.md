@@ -26,7 +26,7 @@ MobileApp Devolopment
 ---------------------
 
 * 🌍  I'm based in Krabi, Thailand
-* ✉️  You can contact me at [Hanslow064@gmail.com](mailto:HanThamarat@gmail.com)
+* ✉️  You can contact me at [HanThamarat@gmail.com](mailto:HanThamarat@gmail.com)
 
 ### Skills
 
