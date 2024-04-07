@@ -32,7 +32,7 @@ MobileApp Devolopment
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,flutter,gcp,js,nodejs,php,react,tailwind,figma,css" />
+    <img src="https://skillicons.dev/icons?i=git,docker,c,flutter,gcp,js,nodejs,php,react,tailwind,figma,css,mysql,linux" />
   </a>
 </p>
 
