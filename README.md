@@ -19,7 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 <br>
 
-MobileApp Devolopment
+MobileApp And Web Devolopment
 ---------------------
 
 * 🌍  I'm based in Krabi, Thailand
