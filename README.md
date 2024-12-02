@@ -29,7 +29,7 @@ MobileApp And Web Devolopment
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,flutter,js,nodejs,php,react,tailwind,figma,mysql,laravel&perline=10" />
+    <img src="https://skillicons.dev/icons?i=docker,flutter,js,nodejs,php,react,tailwind,figma,mysql,laravel,firebase,go,nextjs&perline=10" />
   </a>
 </p>
 
