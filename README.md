@@ -3,6 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 <br>
 
+I'm interested in the Web Development, Appication Development and also I like learning new things by the way now I want to learning making a ai and machine learning
+
+<br>
+
 <div class ="badges" align="center">
   <a href="https://www.facebook.com/thamarat.laosen">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,9 +22,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 <br>
 <br>
-
-I'm interested in the Web Development and Appication Development
-
 ---------------------
 
 * 🌍  I'm based in Krabi, Thailand
