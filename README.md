@@ -22,8 +22,8 @@ I'm interested in the Web Development, Appication Development and also I like le
 </div>
 <br>
 <br>
----------------------
 
+---------------------
 * 🌍  I'm based in Krabi, Thailand
 * ✉️  You can contact me at [HanThamarat@gmail.com](mailto:HanThamarat@gmail.com)
 
@@ -36,7 +36,6 @@ I'm interested in the Web Development, Appication Development and also I like le
 </p>
 
 ### MyStats
-
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HanThamarat&theme=dark&background=000000)](https://git.io/streak-stats) <br><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanThamarat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
